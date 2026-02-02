@@ -24,4 +24,6 @@ Uscite video: 2 × DisplayPort 1.2 (supporto multi-monitor)
 - 1 × porta configurabile (seriale / VGA / alternativa)
 
 ⬇️⬇️⬇️LINK⬇️⬇️⬇️
-https://github.com/Lorsi872/Proxmox-T530
+
+<a href="https://github.com/Lorsi872/Proxmox-T530" target="_blank">Proxmox VE</a>
+
