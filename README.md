@@ -1,5 +1,6 @@
 # HP Thin Client T530 Tweaks
-![Screenshot](assets/t530.PNG)
+<img src="assets/t530.png" width="200" align="left" alt="Descrizione immagine">
+
 
 L’obiettivo è quello di racchiudere tutti i software installati nel t530 in un’unica repo. 
 Le specifiche sono 
